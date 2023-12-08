@@ -2,7 +2,7 @@
 
 # This Task was Given by Analytics Vidya Here is the Problem Statement
 
-#P roblem Statement
+# Problem Statement
 
 In the insurance industry, processing claims for vehicle damage is a common and most essential task. With the advancement in AI and Computer Vision, the users can settle the claims online instantly by uploading the images of the damaged car with the insurance company.
 
